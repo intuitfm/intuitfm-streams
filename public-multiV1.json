@@ -1,1 +1,16 @@
-
+[
+  {
+    "uri": "https://c20.radioboss.fm:8619/stream",
+    "metadata": {
+      "title": "IntuitFM",
+      "artwork": "https://github.com/intuitfm/intuitfm-streams/blob/87f2f2a2327058eb1e3eec271b2dba1c38a42681/icon.png?raw=true"
+    }
+  },
+  {
+    "uri": "https://c34.radioboss.fm:8876/stream",
+    "metadata": {
+      "title": "IntuitFM",
+      "artwork": "https://github.com/intuitfm/intuitfm-streams/blob/87f2f2a2327058eb1e3eec271b2dba1c38a42681/icon.png?raw=true"
+    }
+  }
+]
